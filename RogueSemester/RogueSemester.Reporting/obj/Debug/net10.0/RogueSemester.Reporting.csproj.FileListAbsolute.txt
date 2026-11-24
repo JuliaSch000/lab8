@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\bin\Debug\net10.0\RogueSemester.Reporting.deps.json
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\bin\Debug\net10.0\RogueSemester.Reporting.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\bin\Debug\net10.0\RogueSemester.Reporting.pdb
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.AssemblyInfo.cs
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\refint\RogueSemester.Reporting.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.pdb
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\ref\RogueSemester.Reporting.dll
