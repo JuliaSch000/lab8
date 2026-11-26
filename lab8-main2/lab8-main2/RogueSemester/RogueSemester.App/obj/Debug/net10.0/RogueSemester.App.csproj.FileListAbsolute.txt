@@ -1,0 +1,21 @@
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\bin\Debug\net10.0\RogueSemester.App.exe
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\bin\Debug\net10.0\RogueSemester.App.deps.json
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\bin\Debug\net10.0\RogueSemester.App.runtimeconfig.json
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\bin\Debug\net10.0\RogueSemester.App.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\bin\Debug\net10.0\RogueSemester.App.pdb
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\bin\Debug\net10.0\RogueSemester.Core.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\bin\Debug\net10.0\RogueSemester.Core.pdb
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.AssemblyInfo.cs
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSem.F54B08C8.Up2Date
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\refint\RogueSemester.App.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.pdb
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.genruntimeconfig.cache
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.App\obj\Debug\net10.0\ref\RogueSemester.App.dll
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.dll
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.App\obj\Debug\net10.0\refint\RogueSemester.App.dll
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.App\obj\Debug\net10.0\RogueSemester.App.pdb

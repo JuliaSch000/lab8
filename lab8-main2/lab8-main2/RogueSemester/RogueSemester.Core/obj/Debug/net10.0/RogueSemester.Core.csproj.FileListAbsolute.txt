@@ -1,0 +1,18 @@
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\bin\Debug\net10.0\RogueSemester.Core.deps.json
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\bin\Debug\net10.0\RogueSemester.Core.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\bin\Debug\net10.0\RogueSemester.Core.pdb
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.AssemblyInfo.cs
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\refint\RogueSemester.Core.dll
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.pdb
+C:\Users\admin\Desktop\shchool\project dump\lab8-main\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\ref\RogueSemester.Core.dll
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.AssemblyInfoInputs.cache
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.AssemblyInfo.cs
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.csproj.CoreCompileInputs.cache
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.dll
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\refint\RogueSemester.Core.dll
+Z:\lab8COPY\lab8-main2\lab8-main2\RogueSemester\RogueSemester.Core\obj\Debug\net10.0\RogueSemester.Core.pdb
